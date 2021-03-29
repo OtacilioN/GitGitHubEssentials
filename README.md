@@ -7,3 +7,4 @@ Este é o site pessoal portfólio de Otacilio Maia
 - JavaScript
 - Git e GitHub
 - ChatBots
+- Python
