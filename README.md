@@ -1,2 +1,9 @@
-# GitGitHubEssentials
-Este repositório foi criado para o workshop de Git e GitHub Essentials do Cesar School
+# Otacilio Maia
+
+Este é o site pessoal portfólio de Otacilio Maia
+
+## Interesses
+
+- JavaScript
+- Git e GitHub
+- ChatBots
